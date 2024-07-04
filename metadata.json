@@ -1,6 +1,0 @@
-{
-  "name": "My Berlin",
-  "description": "This is my Ethereum validator node.",
-  "el_rpc_node": "https://mainnet.infura.io/v3/46babdbd8f9441e78ca1275e2b0772c7",
-  "logo": "https://github.com/Berlin1412/repository1/blob/17a61140566a7e56b09955e5525fea4decac8393/Turbo.png"
-}
