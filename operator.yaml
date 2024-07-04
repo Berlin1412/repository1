@@ -1,0 +1,7 @@
+operator:
+  name: "My Berlin"
+  description: "This is my Ethereum validator node."
+  contact: "berlin001412@gmail.com"
+  el_rpc_node: "https://mainnet.infura.io/v3/46babdbd8f9441e78ca1275e2b0772c7"
+  metadata URL : "https://github.com/Berlin1412/repository1/blob/cef8b79e802020e806ce06441db406a47ce6d9dc/operator.yaml"
+  
